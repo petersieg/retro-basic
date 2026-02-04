@@ -7,15 +7,15 @@ Consider the repo above as the main repo! Please find new/updates/issues there.
 I might as time allows make an update here from time to time. The creator Stefan is ok with my copy.
 (I just did not wanted to do a normal fork, with 90% in it, that was not of my primary interest).
 
-I just used the basic2/posix leaf to create a MAC DMG easy installer in Jan. 2026 version 2.0.
+I just used the basic2/posix leaf to create a MAC DMG easy installer in Jan. 2026 from version 2.0.
 
 Folders:
 
-bas = only few examples basic source programs (.bas and .txt are both basic sourcecode)
+bas = only few examples basic source programs (.bas and .txt are both basic source code). More on above main repo.
 
-doc = contains manual.md, the basic language manual for this interpreter
+doc = contains manual.md, the basic language manual for this interpreter. 
 
-src = sourcecode files
+src = source code files
 
 basic_lion = under Mac OSX Lion compiled basic interpreter. 
 
