@@ -1,0 +1,22 @@
+2 REM "Randomization"
+3 @R=MILLIS(1)
+4 CLS
+5 HN=0: HI=0
+10 REM COLLATZ
+12 LOCATE 1,1: PRINT "collatz conjecture"
+15 LOCATE 1,2: PRINT "------------------"
+17 LOCATE 1,9: PRINT "https://de.wikipedia.org/wiki/Collatz_Conjecture"
+20 LET N=INT(RND(1.E20))
+27 LET M=N
+30 LET I=0
+90 LOCATE 1,6: PRINT "Curr: ",M,I,N
+95 LET I=I+1
+140 IF(N/2)=INT(N/2) THEN N=N/2 ELSE N=N*3+1
+170 IF INT(N)>1 GOTO 90
+210 LET I=I+1
+215 IF I<HI THEN  GOTO 230
+216 HN=M: HI=I
+220 LOCATE 1,4: PRINT "High: ",HN,HI
+230 REM
+250 GOTO 20
+
