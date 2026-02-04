@@ -9,3 +9,19 @@ I might as time allows make an update here from time to time. The creator Stefan
 
 I just used the basic2/posix leaf to create a MAC DMG easy installer in Jan. 2026 version 2.0.
 
+Folders:
+
+bas = only few examples basic source programs (.bas and .txt are both basic sourcecode)
+
+doc = contains manual.md, the basic language manual for this interpreter
+
+src = sourcecode files
+
+basic_lion = under Mac OSX Lion compiled basic interpreter. 
+
+basic_bigsur = under Mac OSX Big Sur compiled basic interpreter. 
+
+basic_lion.dmg = DMG Image with basic application, ready to run/install(copy) to applications folder.
+
+This basic_lion.dmg should also run up to MAC OSX Big Sur.
+
