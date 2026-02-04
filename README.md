@@ -23,5 +23,5 @@ basic_bigsur = under Mac OSX Big Sur compiled basic interpreter.
 
 basic_lion.dmg = DMG Image with basic application, ready to run/install(copy) to applications folder.
 
-This basic_lion.dmg should also run up to MAC OSX Big Sur.
+This basic_lion.dmg should also run up to Mac OSX Big Sur.
 
