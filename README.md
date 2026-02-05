@@ -23,7 +23,9 @@ basic_lion = under Mac OSX Lion compiled basic interpreter.
 
 basic_bigsur = under Mac OSX Big Sur compiled basic interpreter. 
 
-basic_winxp.exe = under Windows XP with TDM-GCC 10.3.0 compiled basic interpreter. Since XP cmd does NOT interprete ANSI esc sequences, please load ANSICON before starting basic exe if you want to use cls, locate, etc. Find ANSICON here: https://github.com/adoxa/ansicon
+basic_winxp.exe = under Windows XP with TDM-GCC 10.3.0 compiled basic interpreter. Since XP cmd does NOT interprete ANSI esc sequences, please load ANSICON before starting basic exe if you want to use cls, locate, etc. 
+
+Find ANSICON here: https://github.com/adoxa/ansicon
 
 
 basic_lion.dmg = DMG Image with basic application, ready to run/install(copy) to applications folder.
