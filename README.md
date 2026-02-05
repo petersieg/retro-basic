@@ -30,5 +30,5 @@ Find ANSICON here: https://github.com/adoxa/ansicon
 
 basic_lion.dmg = DMG Image with basic application, ready to run/install(copy) to applications folder.
 
-This basic_lion.dmg should also run up to Mac OSX Big Sur.
+This basic_lion.dmg should run from Mac OSX Lion up to Mac OSX Big Sur.
 
