@@ -23,6 +23,10 @@ basic_lion = under Mac OSX Lion compiled basic interpreter.
 
 basic_bigsur = under Mac OSX Big Sur compiled basic interpreter. 
 
+basic_x5 = under Mac OSX Leopard (10.5) compiled basic interpreter.
+
+basic_ish = under ish ios app (Alpine Linux 3.14) compiled basic interpreter.
+
 basic_winxp.exe = under Windows XP with TDM-GCC 10.3.0 compiled basic interpreter. Since XP cmd does NOT interprete ANSI esc sequences, please load ANSICON before starting basic exe if you want to use cls, locate, etc. 
 
 Find ANSICON here: https://github.com/adoxa/ansicon
