@@ -23,7 +23,7 @@ basic_lion = under Mac OSX Lion compiled basic interpreter.
 
 basic_bigsur = under Mac OSX Big Sur compiled basic interpreter. 
 
-basic_x5 = under Mac OSX Leopard (10.5) compiled basic interpreter.
+basic_macx5 = under Mac OSX Leopard (10.5) compiled basic interpreter.
 
 basic_ish = under ish ios app (Alpine Linux 3.14) compiled basic interpreter.
 
